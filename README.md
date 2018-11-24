@@ -16,6 +16,11 @@ This repo contains the `Machine Learning` Practice code for the shoolmate who wi
     * `Python 3`
     * `PyTorch 0.4+`
     * `sklearn`, `numpy` and some tools
+    
+4. Form of the training
+    * Basic frame learning such as `PyTorch` and `TensorFlow`
+    * Basic problems solving such as `NER` and `Chinese Word Segmentation`, `Language Model`, ...
+    * Famous open course such as `UCL` and `CSxxx`
  
 ## 2. Project Outline
 1. Outline
